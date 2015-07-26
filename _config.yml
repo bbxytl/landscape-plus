@@ -1,11 +1,12 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
-rss: /atom.xml
+  首页: /
+  文章: /archives
+  打赏: /archives
+#rss: /atom.xml
 
 # Content
-excerpt_link: Read More
+excerpt_link: 阅读全文
 fancybox: false
 mathjax: false
 
@@ -21,8 +22,10 @@ widgets:
 
 # Links
 links:
-  主题作者: http://xiguabaobao.com
-  热前端: http://reqianduan.com
+  石佳劼的知乎: http://www.zhihu.com/people/stone0090
+  石佳劼的微博: http://weibo.com/605494869
+  石佳劼的GitHub: https://github.com/stone0090
+  石佳劼的CSDN博客: http://blog.csdn.net/shi0090
 
 # Miscellaneous
 google_analytics:
@@ -37,3 +40,6 @@ duoshuo_shortname:
 
 # Baidu share
 baidushare: true
+
+# Baidu statistic
+baidu_tongji: true
