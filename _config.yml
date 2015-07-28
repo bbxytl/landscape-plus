@@ -1,8 +1,8 @@
 # Header
 menu:
   首页: /
-  归档: /archives
-  打赏: /archives
+  文章: /archives
+  关于: /archives
 # rss: /atom.xml
 
 # Content
@@ -15,9 +15,10 @@ sidebar: right
 widgets:
 - category
 - tagcloud
-- recent_posts
+- recommend_posts
 - links
 - archive
+# - recent_posts
 # - tag
 
 # Links
