@@ -3,13 +3,9 @@
     <h3 class="widget-title">推荐文章</h3>
     <div class="widget">
       <ul>
-        <% site.posts.each(function(post){ %>          
-          <% if (post._id == 'cicmn1qb4000kdsvifjrdbzep' || post._id == 'cicmn1qdk001ndsvicxvqn6hv'){ %>
-            <li>
-              <a href="<%- url_for(post.path) %>"><%= post.title || '(no title)' %></a>
-            </li>
-          <% } %>          
-        <% }) %>
+        <li>
+          <a href="http://shijiajie.com/2013/01/28/dsoframer-introduction-resources/" target="_blank">DSOframer 的简单介绍和资源整理</a>
+        </li>
       </ul>
     </div>
   </div>

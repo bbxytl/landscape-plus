@@ -21,7 +21,9 @@
       <% } else { %>
         <%- post.content %>
       <% } %>
+      <%- partial('post/statement') %>
     </div>
+    
     <footer class="article-footer">
       <% if (config.baidushare || theme.baidushare){ %>
         <a data-url="<%- post.permalink %>" data-id="<%= post._id %>" class="article-share-link" data-share="baidu"><%= __('share') %></a>
