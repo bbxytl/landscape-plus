@@ -16,8 +16,8 @@ widgets:
 - recommend_posts
 - tagcloud
 - category
-- links
 - archive
+- links
 # - recent_posts
 # - tag
 

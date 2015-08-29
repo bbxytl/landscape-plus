@@ -9,38 +9,29 @@
   ![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/1.png)
   相关代码：
   ![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/2.png)
-  
-<!-- more --> 
 
----
 
 - 修改归档页面的时间格式：
   ![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/3.png)
   相关代码：
   ![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/4.png)
-  
----
-  
+
+
 - 添加新挂件，推荐文章：
   ![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/5.png)
-  相关代码：
-  ![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/6.png)
 
----
 
 - 文章结尾增加声明文字：
   ![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/7.png)
   相关代码：
   ![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/8.png)
 
----
 
 - 页脚中增加访问统计：
   ![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/9.png)
   相关代码：
   ![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/10.png)
 
----
 
 - 其他样式优化：
  - 页头，页尾高度调整。
