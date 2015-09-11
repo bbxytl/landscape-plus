@@ -6,31 +6,31 @@
 --- 
 
 - 修改归档挂件的时间格式：（以下图片，左边为原图，右边为效果图）
-  ![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/1.png)
-  相关代码：
-  ![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/2.png)
+![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/1.png?v=1.00)
+相关代码：
+![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/2.png?v=1.00)
 
 
 - 修改归档页面的时间格式：
-  ![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/3.png)
-  相关代码：
-  ![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/4.png)
+![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/3.png?v=1.00)
+相关代码：
+![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/4.png?v=1.00)
 
 
 - 添加新挂件，推荐文章：
-  ![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/5.png)
+![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/5.png?v=1.00)
 
 
 - 文章结尾增加声明文字：
-  ![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/7.png)
-  相关代码：
-  ![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/8.png)
+![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/7.png?v=1.00)
+相关代码：
+![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/8.png?v=1.00)
 
 
 - 页脚中增加访问统计：
-  ![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/9.png)
-  相关代码：
-  ![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/10.png)
+![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/9.png?v=1.00)
+相关代码：
+![](http://7xkhp9.com1.z0.glb.clouddn.com/blog/hexo-theme-landscape-plus-optimize/10.png?v=1.00)
 
 
 - 其他样式优化：
