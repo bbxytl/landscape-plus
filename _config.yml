@@ -18,8 +18,11 @@ widgets:
 - category
 - archive
 - links
+- recent_comments
+
 # - recent_posts
 # - tag
+
 
 # Links
 links:
