@@ -35,13 +35,14 @@ links:
   
 # recommend_posts
 recommend_posts:
-  DSOframer 的简单介绍和资源整理: /2015/09/02/dsoframer-introduction-resources/
-  DSOframer 微软官方API的查阅方法: /2015/09/11/dsoframer-frequently-asked-question2/
-  DSOframer 无法正常加载的解决方案: /2015/08/31/dsoframer-frequently-asked-question1/
+  DSOframer的简单介绍和资源整理: /2015/09/02/dsoframer-introduction-resources/
+  DSOframer微软官方API的查阅方法: /2015/09/11/dsoframer-frequently-asked-question2/
+  DSOframer无法正常加载的解决方案: /2015/08/31/dsoframer-frequently-asked-question1/
   C#技术分享-PDF转图片的10种方法: /2012/02/15/office-pdf2image/
   C#技术分享-DOC转图片的3种方法: /2012/02/22/office-doc2image/
   Hexo 官方主题 landscape-plus 优化: /2015/08/29/hexo-theme-landscape-plus-optimize/
-  DoNet 开源项目-基于 jQuery EasyUI 的后台管理系统: /2015/08/30/donet-opensource-stonefw-introduction/
+  DoNet开源项目-基于jQuery EasyUI的后台管理系统: /2015/08/30/donet-opensource-stonefw-introduction/
+  DoNet开源项目-基于Amaze UI的点餐系统: /2016/01/17/donet-opensource-dian-introduction/
 
 # Miscellaneous
 google_analytics:
