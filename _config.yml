@@ -61,4 +61,4 @@ duoshuo_shortname: shijiajie
 baidushare: true
 
 # Baidu statistic
-baidu_tongji: true
+baidu_tongji: false
