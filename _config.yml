@@ -18,21 +18,20 @@ widgets:
 - category
 - tagcloud
 - archive
-- links
 - recent_comments
 
 # - official_accounts
 # - recent_posts
 # - tag
-
+# - links
 
 # Links
 links:
   SegmentFault: https://segmentfault.com/
-  
+
 # recommend_posts
 recommend_posts:
-  《JavaScript 闯关记》: 2016/07/24/javascript-lesson-readme/
+  《JavaScript 闯关记》: /2016/07/24/javascript-lesson-readme/
   DSOframer的简单介绍和资源整理: /2015/09/02/dsoframer-introduction-resources/
   DSOframer微软官方API的查阅方法: /2015/09/11/dsoframer-frequently-asked-question2/
   DSOframer无法正常加载的解决方案: /2015/08/31/dsoframer-frequently-asked-question1/
